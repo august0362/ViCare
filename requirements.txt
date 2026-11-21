@@ -1,0 +1,8 @@
+# Notebook handles installation automatically. These are main dependencies.
+chromadb>=1.0,<2
+sentence-transformers>=3,<6
+datasets>=3,<5
+ollama>=0.5,<1
+zstandard>=0.22,<1
+rank-bm25>=0.2.2,<1
+gradio>=5,<7
